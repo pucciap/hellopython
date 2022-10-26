@@ -1,3 +1,4 @@
+#this is my first Python program on GitHub
 name = input("What is your name? ")
 response = "Hi, " + name + " My name is Python! hssss"
 print("")
